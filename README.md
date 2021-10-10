@@ -9,3 +9,5 @@ Maximum Transaction 5,000,000,000
 Percentage Liquidity Locked 65%
 Liquidity Lock Duration (Tokens) 35% 2 Years + 30% 1 Year, 35% Unlocked
 (unallocated total supply)
+
+🙌
